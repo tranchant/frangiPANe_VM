@@ -44,4 +44,8 @@ This virtual machine is available on the [IFB RAINBIO catalog](https://biosphere
 
 ## Licence
 
-Licensed under GPLv3
+Licensed under CeCill-C (http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html) and GPLv3
+
+Intellectual property belongs to IRD/UMR DIADE.
+
+Copyright 2021
