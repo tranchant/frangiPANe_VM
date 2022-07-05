@@ -1,0 +1,21 @@
+# An example of gitlab continuous integration pipeline
+# Use docker:stable image (dind) to 
+#  - build the project docker image described in the local Dockerfile ('docker build')
+#  - and register the built image in the local gitlab registry ('docker push')
+image: docker:stable
+
+services:
+  - docker:dind
+
+variables:
+  IMAGE_TAG: $CI_REGISTRY_IMAGE:$CI_COMMIT_REF_SLUG
+
+before_script:
+  - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+
+build:
+  stage: build
+  script:
+    - docker build -t $IMAGE_TAG .
+    - docker push $IMAGE_TAG
+
