@@ -35,3 +35,13 @@ This virtual machine is available on the [IFB RAINBIO catalog](https://biosphere
 
 * Francois Sabot [SouthGreen Platform](https://southgreen.fr)
 * Christine Tranchant-Dubreuil [SouthGreen and i-trop Platform](https://southgreen.fr)
+
+## App data
+
+* Version : 20.04
+* OS : Ubuntu
+* OS version : 20.04
+
+## Licence
+
+Licensed under GPLv3
