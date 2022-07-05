@@ -16,33 +16,16 @@ This virtual machine is available on the [IFB RAINBIO catalog](https://biosphere
 
 ## Tools
 
-* Docker : https://docs.docker.com/get-docker/
+ * Jupyter lab : https://jupyter.org 
  * Python3 (v3.9.7) : https://www.python.org/
  * biopython : https://biopython.org/
  * panel : https://panel.holoviz.org/
-
  * abyss : https://github.com/bcgsc/abyss/blob/master/README.md
  * bwa (v. 0.7.17) : https://github.com/lh3/bwa/blob/master/README.md
  * ea-utils (fastq-stats, v 1.01) : https://expressionanalysis.github.io/ea-utils/
  * samtools (v1.10) : http://www.htslib.org/
  * assembly-stats : https://github.com/sanger-pathogens/assembly-stats
  * cd-hit : https://github.com/weizhongli/cdhit/blob/master/README
-* [Jupyter notebook/lab](https://jupyter.org)
-* [seqtk](https://github.com/lh3/seqtk)
-* [NanoPlot](https://github.com/wdecoster/NanoPlot)
-* [NanoComp](https://github.com/wdecoster/nanocomp)
-* [Minimap2](https://github.com/lh3/minimap2)
-* [Sniffles](https://github.com/fritzsedlazeck/Sniffles)
-* [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR/)
-* [Raven](https://github.com/lbcb-sci/raven)
-* [Flye](https://github.com/fenderglass/Flye)
-* [RagTag](https://github.com/malonge/RagTag)
-* [Racon](https://github.com/isovic/racon)
-* [Assemblytics](http://assemblytics.com/)
-* [Bandage](https://github.com/rrwick/Bandage)
-* [Mummer](https://github.com/mummer4/mummer)
-* [Assembly-Stats](https://github.com/sanger-pathogens/assembly-stats)
-
 
 ## Contact
 
